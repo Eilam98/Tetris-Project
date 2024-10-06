@@ -1,0 +1,10 @@
+﻿  computer.cpp
+  game.cpp
+  general.cpp
+  human.cpp
+  main.cpp
+C:\Users\97252\OneDrive\שולחן העבודה\מדעי המחשב\שנה ב'\סמסטר א\תכנות מונחה עצמים\תרגולים\Tetris_OOP2\Tetris_OOP2\main.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  point.cpp
+  Generating Code...
+  Tetris_OOP2.vcxproj -> C:\Users\97252\OneDrive\שולחן העבודה\מדעי המחשב\שנה ב'\סמסטר א\תכנות מונחה עצמים\תרגולים\Tetris_OOP2\x64\Debug\Tetris_OOP2.exe
